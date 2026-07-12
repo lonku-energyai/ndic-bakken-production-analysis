@@ -1,4 +1,4 @@
-# Cleaning Log - NDIC Bakken 2025
+# Cleaning Log ~ NDIC Bakken 2025
 
 A record of the data-quality issues encountered in the raw NDIC monthly production files and how each was resolved. Raw public data is rarely analysis-ready; this log documents the distance between "downloaded" and "trustworthy."
 
@@ -64,4 +64,4 @@ A record of the data-quality issues encountered in the raw NDIC monthly producti
 | Volume w/o producing days | small | <0.1% |
 | Days w/o volume | small | <0.1% |
 
-Data Quality Score (share of OK records): **99.1%** — computed as a DAX measure and displayed on the report's Data Quality page.
+Data Quality Score (share of OK records): **99.1%** , computed as a DAX measure and displayed on the report's Data Quality page.
